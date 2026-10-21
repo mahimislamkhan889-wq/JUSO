@@ -1,0 +1,6 @@
+{
+  "name": "JUSO - প্রাকৃতিক রেডি-মিক্স শরবত",
+  "description": "dhok.bd স্টাইলের ইনস্ট্যান্ট ন্যাচারাল শরবত ব্র্যান্ড JUSO। চিয়া সিড, ইসবগুল ভুসি, তোকমা ও আখের গুড়ে তৈরি ১ মিনিটের রিফ্রেশিং ড্রিংক।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
